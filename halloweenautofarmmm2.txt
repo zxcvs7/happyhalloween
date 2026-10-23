@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iueeb/halloween/refs/heads/main/candyfarm_halloween_no_black_patches.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zxcvs7/blob/refs/heads/main/candyfarm_halloween_bag50.lua"))()
