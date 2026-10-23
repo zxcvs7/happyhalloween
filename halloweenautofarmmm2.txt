@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zxcvs7/blob/refs/heads/main/candyfarm_halloween_bag50.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zxcvs7/blob/refs/heads/main/assistscriptfinalv4.lua"))()
